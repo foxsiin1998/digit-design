@@ -26,6 +26,8 @@ Due to some parts being out of stock due to shortages, we recommend the followin
 
 ## Quick Start
 
+fix some markdown
+
 Manufacturing and assembly documentation is found in the [Quick Start Guide](DIGIT_Quick_Start_Guide.pdf)
 
 The manufacturing files are released in [releases](releases) for PCBA fabrication.
